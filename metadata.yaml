@@ -1,10 +1,16 @@
 _repo: Finding-the-Worth-While-in-the-Southwest_50933
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50933-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, Charles Francis
     gutenberg_agent_id: '46148'
     url: http://www.gutenberg.org/2009/agents/46148
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50933#Finding-the-Worth-While-in-the-Southwest
 gutenberg_issued: '2016-01-15'
 gutenberg_type: Text
 identifiers:
